@@ -14,7 +14,8 @@ int main(void)
 		putchar(n);
 		n++;
 	}
-	while
+	while (m = 98)
+	{
 		putchar(m);
 		m++;
 	}
