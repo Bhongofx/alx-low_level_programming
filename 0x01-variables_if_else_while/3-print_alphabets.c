@@ -11,6 +11,10 @@ int main(void)
 
 	while (n <= 122)
 	{
+		putchar(n);
+		n++;
+	}
+	while
 		putchar(m);
 		m++;
 	}
