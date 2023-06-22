@@ -19,7 +19,7 @@ int main(void)
 		max = 2;
 		n /= 2;
 	}
-	for (i = 3; <= sqrt(n); i = i + 2)
+	for (i = 3; i <= sqrt(n); i = i + 2)
 	{
 		while (n % 1 == 0)
 		{
